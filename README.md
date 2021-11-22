@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ALIGATOR007
+- 👋 Hi, I’m Oleg
 - 👀 I’m interested in Java develop projects
-- 🌱 I’m currently learning Java, SQL, patterns
+- 🌱 I’m currently learning Java, SQL, Spring
 - 💞️ I’m looking to collaborate on Elon Musk
-- 📫 How to reach me aligator007@ukr.net
+- 📫 How to reach me o.palamarchuk.work@gmail.com
 
 <!---
 ALIGATOR007/ALIGATOR007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
